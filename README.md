@@ -18,5 +18,7 @@ Assim que executar o "decrypter.py" o arquivo retornara sua estrutura e extensoe
 
 [teste](https://github.com/droperox/cybersecurity-desafio-ransomware/blob/a72d9a6eb3163118e6141d8dcbd3e599c927b6ca/teste.txt)
 
+### Criado, testado e compilado no @Kali Linux.
 
+Obrigado!
 
